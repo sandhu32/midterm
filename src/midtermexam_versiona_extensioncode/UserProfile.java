@@ -16,6 +16,8 @@ import java.util.List;
  * code.
  * @author dancye, 2019
  */
+
+
 public class UserProfile 
 {
     
@@ -29,6 +31,14 @@ public class UserProfile
      * @param givenGenre the users favourite genre
      */
 
+    public class rajpreet 
+{
+       /**
+        * My name is Rajpreet singh sandhu 
+        * this class is for 4 the question
+        */
+
+}
 public class TestUserprofile {
 
     public void main(String[] args) {
